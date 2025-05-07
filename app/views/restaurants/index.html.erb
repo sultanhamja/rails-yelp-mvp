@@ -1,0 +1,16 @@
+<div class="container m-3">
+  <h2 >All restaurants</h2>
+  <ol class="list-group">
+  <% @restaurants.each do |restaurant| %>
+    <li class="list-group-item">
+      <h5 class= mt-3 ><%= restaurant.name %></h5>
+      <p class="m-0" ><%= restaurant.address %></p>
+      <p class="m-0" ><%= restaurant.phone_number %></p>
+      <p class="m-0" ><%= restaurant.category %></p>
+    </li>
+  <% end %>
+  </ol>
+</div>
+<div class="container btn">
+  <%# <p> <% link_to 'Add Restaurant',  %></p> %>
+</div>

@@ -1,0 +1,41 @@
+=> 
+[[32m#<Restaurant:0x00007f1cee0e4e78[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mDishoom[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m7 Boundary St, London E2 7JE[0m[31m[1m"[0m,
+  phone_number: [34m[1m9090909090[0m,
+  category: [31m[1m"[0m[31mbelgian[0m[31m[1m"[0m,
+  created_at: Wed, 07 May 2025 15:31:57.382376000 UTC +00:00,
+  updated_at: Wed, 07 May 2025 15:31:57.382376000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f1ced448e80[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mPizza East[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m56A Shoreditch High St, London E1 6PQ[0m[31m[1m"[0m,
+  phone_number: [36m[1mnil[0m,
+  category: [31m[1m"[0m[31mitalian[0m[31m[1m"[0m,
+  created_at: Wed, 07 May 2025 15:31:57.393677000 UTC +00:00,
+  updated_at: Wed, 07 May 2025 15:31:57.393677000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f1ced448d40[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mPizzeria[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mHigh St, London E12 6PQ[0m[31m[1m"[0m,
+  phone_number: [34m[1m9898989898[0m,
+  category: [31m[1m"[0m[31mitalian[0m[31m[1m"[0m,
+  created_at: Wed, 07 May 2025 15:31:57.406811000 UTC +00:00,
+  updated_at: Wed, 07 May 2025 15:31:57.406811000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f1ced448c00[0m
+  id: [34m[1m4[0m,
+  name: [31m[1m"[0m[31mYou&MeSushi[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mEaling Broadway, London W5 4TR[0m[31m[1m"[0m,
+  phone_number: [34m[1m7447774447[0m,
+  category: [31m[1m"[0m[31mjapanese[0m[31m[1m"[0m,
+  created_at: Wed, 07 May 2025 15:31:57.419482000 UTC +00:00,
+  updated_at: Wed, 07 May 2025 15:31:57.419482000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f1ced448ac0[0m
+  id: [34m[1m5[0m,
+  name: [31m[1m"[0m[31mTopChef[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mWestham high rd, London E6 4AR[0m[31m[1m"[0m,
+  phone_number: [34m[1m7422443347[0m,
+  category: [31m[1m"[0m[31mchinese[0m[31m[1m"[0m,
+  created_at: Wed, 07 May 2025 15:31:57.422837000 UTC +00:00,
+  updated_at: Wed, 07 May 2025 15:31:57.422837000 UTC +00:00[32m>[0m]
